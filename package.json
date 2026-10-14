@@ -1,0 +1,12 @@
+{
+"name": "zyre-music-bot-webhook",
+"version": "1.0.0",
+"description": "Webhook server for ZYRE MUSIC BOT",
+"main": "app.js",
+"scripts": {
+"start": "node app.js"
+},
+"dependencies": {
+"express": "^4.21.2"
+}
+}
